@@ -1,0 +1,267 @@
+[
+  {
+    "last2name": "Ruiz",
+    "lastname": "Arrieta",
+    "surname": "Brando",
+    "name": "Hilder ",
+    "datebirth": "1999-06-13T06:00:00.000Z",
+    "cel": [
+      "3022976002",
+      "3042675766"
+    ],
+    "id": 1233909119,
+    "email": [
+      "harrietaruiz19@outlook.com",
+      "hbarrieta13@gmail.com"
+    ],
+    "testimonial": [
+      {
+        "projects": [
+          "TI",
+          "UX"
+        ],
+        "photo": "link",
+        "why": "yes",
+        "condition": "teacher/student",
+        "name": "Natalia Giraldo",
+        "punctuation": "5"
+      }
+    ],
+    "address": "Cra 128 A 142 D 52",
+    "CV": {
+      "available": "yes",
+      "link": "https://www.canva.com/design/DAEmuKJlh_g/GPP_XInguo2GZdnbgytI8g/view?utm_content=DAEmuKJlh_g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+    },
+    "socialN": {
+      "Twitter": "https://twitter.com/HilbraKaku",
+      "YouTube": "https://www.youtube.com/channel/UCx4zRBHfy0243XbXh4va3mw",
+      "Linkedin": "https://www.linkedin.com/in/hilbra-kaku/",
+      "Instagram": "https://www.instagram.com/hilbrakaku/",
+      "Facebook": "https://www.facebook.com/Hildera/",
+      "GitHub": "https://github.com/matlab98"
+    },
+    "Education": [
+      {
+        "date": 2016,
+        "average": 4,
+        "activities": [
+          {
+            "name": "taekwondo"
+          }
+        ],
+        "description": "Computer engineer",
+        "type": "University",
+        "institution_name": "University of La Sabana",
+        "favorite_subject": [
+          {
+            "name": "IT infrastructure",
+            "description": "Focused on the use of clouds such as AWS and GCP, CI/CD, load balancing, etc."
+          }
+        ]
+      },
+      {
+        "date": "2021",
+        "average": "5",
+        "activities": {
+          "name": "Bootcamp"
+        },
+        "description": "FrontEnd development course with emphasis on ReactJS",
+        "type": "Academy",
+        "institution_name": "Academia Geek",
+        "favorite_subject": [
+          {
+            "name": "Technique",
+            "description": "Focused on the use of languages such as HTML, CSS and JavaScript, frameworks such as ReactJS, bootstrap, material UI"
+          }
+        ]
+      },
+      {
+        "date": "2020",
+        "average": "5",
+        "activities": {
+          "name": "Intersemester"
+        },
+        "description": "Process simulation course",
+        "type": "University",
+        "institution_name": "Northern Illinois University",
+        "favorite_subject": [
+          {
+            "name": "University",
+            "description": "Focused on process simulation using Arena software. In addition, to design and implement processes similar to reality."
+          }
+        ]
+      }
+    ],
+    "gender": "Male",
+    "introduction": {
+      "link": "",
+      "Description": "Hello, in this video I introduce myself. After watching this video, you will know me a little better."
+    },
+    "jobs": {
+      "enterprise": "Compensar",
+      "responsabilities": "Testing, generating data, made case test and developing bots of automation of testing",
+      "acknowledgment": "no",
+      "area": "Projects and improvements",
+      "rol": "QA University Intern",
+      "title": "Quality Analyst"
+    },
+    "languages": [
+      {
+        "lang": "English",
+        "expertice": "B2"
+      },
+      {
+        "lang": "Spanish",
+        "expertice": "Native"
+      },
+      {
+        "lang": "French",
+        "expertice": "A2"
+      }
+    ],
+    "location": {
+      "geoPoint": {
+        "_latitude": 4.7991209177989695,
+        "_longitude": -74.11930151039931
+      },
+      "city": "Bogota D.C."
+    },
+    "portfolio": [
+      {
+        "name_project": "CV project",
+        "link": "hilder-arrieta.netlify.app",
+        "description": "This is my personal portfolio",
+        "type": "FrontEnd",
+        "skill_use": [
+          "HTML",
+          "JS",
+          "CSS",
+          "SASS",
+          "React",
+          "Firebase"
+        ],
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1630445897/bcdvih998ako1hguevus.png"
+      },
+      {
+        "name_project": "BlockNet",
+        "link": "https://block-net.netlify.app/",
+        "description": "Blocknet is back!",
+        "type": "FrontEnd",
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1628823853/nasa8a8fdidbc8eppzzd.png",
+        "skill_use": [
+          "React",
+          "Firestore",
+          "CSS",
+          "JS",
+          "Material UI",
+          "Chakra UI",
+          "Styled components"
+        ]
+      },
+      {
+        "name_project": "Calculator",
+        "link": "https://matlab98.github.io/Sprint-3-reto-1/",
+        "description": "What a good calculator",
+        "type": "FrontEnd",
+        "skill_use": [
+          "ReactJS",
+          "CSS",
+          "JS"
+        ],
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1630446323/dosofu0grr9g01xtvrno.png"
+      },
+      {
+        "name_project": "Motivational quotes",
+        "link": "https://matlab98.github.io/reto-1-Frases-aleatorias/",
+        "description": "Motivational phrases for day to day.",
+        "type": "FrontEnd",
+        "skill_use": [
+          "ReactJS",
+          "Axios",
+          "Json",
+          "CSS"
+        ],
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1628824108/pwnwigodberevh0mbzcp.png"
+      },
+      {
+        "name_project": "SkyApp",
+        "link": "https://prueba-tecnica-ag.netlify.app/",
+        "description": "It is a weather application to know how it will be today.",
+        "type": "FrontEnd",
+        "skill_use": [
+          "ReactJS",
+          "CSS",
+          "Axios",
+          "JS",
+          "Material UI",
+          "Bootstrap"
+        ],
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1628824272/dhytpzdxoqjznwjbg2mf.png"
+      },
+      {
+        "name_project": "Beatbox",
+        "link": "https://matlab98.github.io/reto-3-Caja-de-Ritmos/",
+        "description": "Try it, it's fun!",
+        "type": "FrontEnd",
+        "skill_use": [
+          "ReactJS",
+          "CSS",
+          "Axios"
+        ],
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1628824374/dv3mahixdfoweny6j6rt.png"
+      },
+      {
+        "name_project": "Utest registration automation",
+        "link": "https://github.com/matlab98/Utest-automatization.git",
+        "description": "User registration automation",
+        "type": "Automation",
+        "cover_page": "https://res.cloudinary.com/dpykpv9hd/image/upload/v1637879382/zsvji14e7hokzbqy4kko.png",
+        "skill_use": [
+          "Selenium",
+          "Cucumber",
+          "Gherkins",
+          "Serenity"
+        ]
+      }
+    ],
+    "resume": "Computer engineer with skills in GCP and AWS, in FrontEnd development, has worked in containerization (Docker), knowledge in Linux. Passionate about Agile Software Development, automation, software testing and application development in Cloud environments. With great attention to detail, high problem solving capacity, self-taught and dedicated.",
+    "services": [
+      {
+        "service": "Front-end",
+        "icon": "fas fa-code",
+        "description": "As a front-end developer I have brought visual and interface design to life, using various technologies such as ReactJS, HTML, CSS and JS. Framework as UI material, bootstrap, among others."
+      },
+      {
+        "service": "Back-end",
+        "icon": "fas fa-cogs",
+        "description": "From algorithm programming to creating microservices and APIs, using languages like JAVA, Python, PhP, R, and C++ and databases like SQL, mongoDB, postgresql, and firestore."
+      },
+      {
+        "service": "Automatization",
+        "icon": "fas fa-drafting-compass",
+        "description": "Focused on test automation robot development using technologies such as Selenium, cucumber, Gerkins, etc."
+      },
+      {
+        "service": "Devops",
+        "icon": "far fa-chart-bar",
+        "description": "Focused on developing faster, cheaper, more competitive and reducing the possibility of error."
+      }
+    ],
+    "skills": [
+      {
+        "percentage": "60%",
+        "skill_name": "Hyper Text Markup Language (HTML)",
+        "description": "I have 2 years of HTML experience and have 100% completed various projects.",
+        "time": "1",
+        "type": "Front-end"
+      },
+      {
+        "Type": "Front-end",
+        "skill_name": "Cascading Style Sheets (CSS)",
+        "percentage": "85%",
+        "description": "I have 2 years of HTML experience and have 100% completed various projects.",
+        "time": "1"
+      }
+    ]
+  }
+]

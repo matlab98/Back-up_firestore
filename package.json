@@ -1,0 +1,28 @@
+{
+  "name": "backup-firestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./app/index.cjs.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "events": "^3.3.0",
+    "express": "^4.18.2",
+    "firebase": "^9.19.1",
+    "firebase-admin": "^11.5.0",
+    "firestore-export-import": "^1.3.5",
+    "inversify": "^6.0.1",
+    "mongoose": "^7.0.3"
+  }
+}
